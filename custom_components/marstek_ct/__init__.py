@@ -18,7 +18,7 @@ _LOGGER = logging.getLogger(__name__)
 PLATFORMS: list[Platform] = [Platform.SENSOR]
 
 FIRST_REFRESH_TIMEOUT = 10.0
-BASE_UPDATE_INTERVAL = timedelta(seconds=5)
+BASE_UPDATE_INTERVAL = timedelta(seconds=1)
 MAX_BACKOFF_INTERVAL = timedelta(seconds=60)
 BACKOFF_FACTOR = 2
 
