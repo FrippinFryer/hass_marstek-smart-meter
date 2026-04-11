@@ -1,6 +1,6 @@
 {
-  "domain": "marstek_ct",
-  "name": "Marstek CT Meter",
+  "domain": "marstek_ct_quick",
+  "name": "Marstek CT Meter_HighFreq",
   "config_flow": true,
   "documentation": "https://github.com/Cappa83/hass_marstek-smart-meter",
   "iot_class": "local_polling",
