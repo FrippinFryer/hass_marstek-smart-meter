@@ -2,7 +2,7 @@
   "config": {
     "step": {
       "user": {
-        "title": "Marstek CT Meter",
+        "title": "Marstek CT Meter HighFreq",
         "description": "Please enter the connection details. The MAC addresses must be the 12-character hex strings from the 'Device Management' page in the official Marstek mobile app.",
         "data": {
           "host": "IP Address of the CT Meter",
